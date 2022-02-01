@@ -4,11 +4,10 @@ int main() {
 
     printf("\nHello World!");
     printf("\nFabio Sitzia");
-    printf("\nDavide");
+    printf("\nDavide Ardu");
     printf("\nRiccardo");
-    printf("\nMichele eccoti!");
-    printf("\n retry");
-    printf("\nRuspa!");
+    printf("\nMichele");
+    
 
 
     return 0;
