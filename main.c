@@ -8,5 +8,8 @@ int main() {
     printf("\nRiccardo");
     printf("\nMichele eccoti!");
 
+    printf("\nRuspa!");
+
+
     return 0;
 }
