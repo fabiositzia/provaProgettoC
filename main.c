@@ -6,9 +6,8 @@ int main() {
     printf("\nFabio Sitzia");
     printf("\nDavide");
     printf("\nRiccardo");
-    printf("\nMichele eccoti!");
-
-    printf("\nRuspa!");
+    printf("\nMichele");
+    
 
 
     return 0;
